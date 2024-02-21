@@ -3507,3 +3507,275 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.02.21-22.09.01:249][489]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.02.21-22.09.01:374][490]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.02.21-22.09.16:961][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.21-22.12.43:863][ 83]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.02.21-22.12.43:864][ 83]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.02.21-22.12.43:864][ 83]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin.SKM_Mannequin'
+[2024.02.21-22.12.58:098][844]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.02.21-22.13.00:883][997]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Engine/Maps/Templates/Thumbnails/TimeOfDay.TimeOfDay
+[2024.02.21-22.13.01:244][997]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.13.01:245][997]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.13.01:245][997]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.13.01:245][997]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.13.01:245][997]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.13.01:376][997]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.13.01:512][997]LogViewport: Scene viewport resized to 1424x1058, mode Windowed.
+[2024.02.21-22.15.04:982][906]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.DataChannel'.'
+[2024.02.21-22.15.10:451][201]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.02.21-22.15.10:466][201]LogContentBrowser: Creating deferred item: NewFolder
+[2024.02.21-22.15.10:488][202]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.02.21-22.15.14:102][419]LogContentBrowser: Attempting asset rename: NewFolder -> nail
+[2024.02.21-22.15.14:105][419]LogContentBrowser: End creating deferred item NewFolder
+[2024.02.21-22.15.27:595][648]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2024.02.21-22.15.27:623][648]LogInterchangeEngine: [Pending] Importing
+[2024.02.21-22.15.27:624][648]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/reidp/OneDr...U/Modelling & Anim 1/Nail.obj]
+[2024.02.21-22.15.27:631][648]LogTemp: Display: Interchange Obj translator: Unknown keyword: s
+[2024.02.21-22.15.27:633][648]LogTemp: Display: Interchange Obj translator: Unknown keyword: l
+[2024.02.21-22.15.27:697][649]LogInterchangeEngine: [Pending] Importing
+[2024.02.21-22.15.27:790][650]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.27:790][650]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.27:790][650]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.27:790][650]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.27:790][650]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.27:804][650]LogStaticMesh: Display: Building static mesh Nail...
+[2024.02.21-22.15.27:812][650]Interchange: Error: Failed to import ImageWrapper, cannot open file.
+[2024.02.21-22.15.27:812][650]Interchange: Error: Unable to retrieve the payload from the source file.
+[2024.02.21-22.15.27:825][650]LogStaticMesh: Built static mesh [0.03s] /Game/3D_Assets/nail/Nail.Nail
+[2024.02.21-22.15.27:835][650]LogStaticMesh: Warning: Nail has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2024.02.21-22.15.27:835][650]LogStaticMesh: Warning: Nail has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.02.21-22.15.27:865][650]LogInterchangeEngine: [Success] Import Done
+[2024.02.21-22.15.27:868][650]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.27:946][651]LogInterchangeEngine: [Success] Import Done
+[2024.02.21-22.15.29:400][703]LogShaderCompilers: Display: ================================================
+[2024.02.21-22.15.29:400][703]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.21-22.15.29:400][703]LogShaderCompilers: Display: Total job queries 1,719, among them cache hits 994 (57.82%)
+[2024.02.21-22.15.29:400][703]LogShaderCompilers: Display: Tracking 695 distinct input hashes that result in 405 distinct outputs (58.27%)
+[2024.02.21-22.15.29:400][703]LogShaderCompilers: Display: RAM used: 15.92 MiB of 819.20 MiB budget. Usage: 1.94%
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Shaders Compiled: 521
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Jobs assigned 524, completed 521 (99.43%)
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Average time worker was idle: 1220.05 s
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 1.48 s
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Job execution time: average 0.63 s, max 2.08 s
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Job life time (pending + execution): average 0.85 s, max 3.05
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Shader code size: average 37.354 KiB, min 4.008 KiB, max 71.648 KiB
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 76.64 s
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Jobs were issued in 524 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Average processing rate: 6.80 jobs/sec
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Total thread time: 244.569 s
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Total thread preprocess time: 25.895 s
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Percentage time preprocessing: 10.59%
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Effective parallelization: 3.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    6 times, average 0.84 sec, max 0.87 sec, min 0.80 sec)
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 0.73 sec, max 1.80 sec, min 0.48 sec)
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 0.71 sec, max 1.77 sec, min 0.50 sec)
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 0.70 sec, max 1.75 sec, min 0.45 sec)
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    7 times, average 0.69 sec, max 1.76 sec, min 0.46 sec)
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.79% of total time (compiled   77 times, average 0.57 sec, max 1.23 sec, min 0.28 sec)
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.69% of total time (compiled   72 times, average 0.50 sec, max 1.05 sec, min 0.34 sec)
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.13% of total time (compiled   52 times, average 0.48 sec, max 1.04 sec, min 0.35 sec)
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.94% of total time (compiled   53 times, average 0.23 sec, max 0.78 sec, min 0.15 sec)
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 4.52% of total time (compiled   18 times, average 0.61 sec, max 0.86 sec, min 0.42 sec)
+[2024.02.21-22.15.29:401][703]LogShaderCompilers: Display: ================================================
+[2024.02.21-22.15.30:422][746]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D_Assets/nail/Nail.Nail
+[2024.02.21-22.15.30:423][746]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D_Assets/nail/Nail.Nail
+[2024.02.21-22.15.30:427][746]LogActorFactory: Actor Factory spawned StaticMesh /Game/3D_Assets/nail/Nail.Nail as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_549
+[2024.02.21-22.15.31:415][771]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D_Assets/nail/Nail.Nail
+[2024.02.21-22.15.31:415][771]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D_Assets/nail/Nail.Nail
+[2024.02.21-22.15.31:419][771]LogActorFactory: Actor Factory spawned StaticMesh /Game/3D_Assets/nail/Nail.Nail as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_551
+[2024.02.21-22.15.32:881][840]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.32:883][840]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.33:414][872]Cmd: TRANSACTION UNDO
+[2024.02.21-22.15.33:415][872]LogEditorTransaction: Undo Create Actors
+[2024.02.21-22.15.33:478][872]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.33:478][872]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.33:478][872]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.33:478][872]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.33:478][872]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.33:483][872]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.15.36:013][992]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D_Assets/nail/Nail.Nail
+[2024.02.21-22.15.36:013][992]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D_Assets/nail/Nail.Nail
+[2024.02.21-22.15.36:014][992]LogActorFactory: Actor Factory spawned StaticMesh /Game/3D_Assets/nail/Nail.Nail as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_552
+[2024.02.21-22.15.36:432][ 13]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D_Assets/nail/Nail.Nail
+[2024.02.21-22.15.36:432][ 13]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3D_Assets/nail/Nail.Nail
+[2024.02.21-22.15.36:434][ 13]LogActorFactory: Actor Factory spawned StaticMesh /Game/3D_Assets/nail/Nail.Nail as actor: StaticMeshActor /Game/Maps/Level1.Level1:PersistentLevel.StaticMeshActor_553
+[2024.02.21-22.16.18:489][423]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/3D_Assets/nail/Material_001.Material_001
+[2024.02.21-22.16.18:520][423]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.21-22.16.18:520][423]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.21-22.16.18:743][423]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.18:832][423]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.21-22.16.18:832][423]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.21-22.16.18:832][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.21-22.16.18:832][423]MaterialEditorStats: Shader Count: 0
+[2024.02.21-22.16.18:847][423]LogViewport: Scene viewport resized to 376x528, mode Windowed.
+[2024.02.21-22.16.19:046][425]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.21-22.16.19:046][425]MaterialEditorStats: Base pass vertex shader: 139 instructions
+[2024.02.21-22.16.19:046][425]MaterialEditorStats: Texture samplers: 3/16
+[2024.02.21-22.16.19:046][425]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.02.21-22.16.19:046][425]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.21-22.16.19:046][425]MaterialEditorStats: Shader Count: 4
+[2024.02.21-22.16.26:124][806]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.21-22.16.26:133][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.21-22.16.26:133][806]PIE: New page: PIE session: Level1 (Feb 21, 2024, 12:16:26 PM)
+[2024.02.21-22.16.26:161][806]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2024.02.21-22.16.26:163][806]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.02.21-22.16.26:216][807]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2024.02.21-22.16.26:266][807]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.26:275][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059319s)
+[2024.02.21-22.16.26:275][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.059375s)
+[2024.02.21-22.16.26:293][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.02.21-22.16.26:295][807]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.21-22.16.26:296][807]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.21-22.16.26:297][807]LogAIModule: Creating AISystem for world Level1
+[2024.02.21-22.16.26:298][807]LogPlayLevel: PIE: World Init took: (0.002653s)
+[2024.02.21-22.16.26:298][807]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.02.21-22.16.26:298][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.21-22.16.26:298][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.21-22.16.26:298][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.21-22.16.26:298][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.21-22.16.26:298][807]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.21-22.16.26:298][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.21-22.16.26:298][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.21-22.16.26:298][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.21-22.16.26:299][807]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.21-22.16.26:299][807]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.21-22.16.26:299][807]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.21-22.16.26:301][807]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.21-22.16.26:334][807]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-XB910N)
+[2024.02.21-22.16.26:335][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.21-22.16.26:335][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.21-22.16.26:335][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.21-22.16.26:337][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.02.21-22.16.26:337][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.02.21-22.16.26:340][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.02.21-22.16.26:340][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.02.21-22.16.26:340][807]LogInit: FAudioDevice initialized with ID 8.
+[2024.02.21-22.16.26:340][807]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2024.02.21-22.16.26:340][807]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.21-22.16.26:343][807]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.21-22.16.26:360][807]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.26:361][807]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.26:361][807]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.26:361][807]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.26:361][807]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.26:361][807]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.26:361][807]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.26:361][807]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.26:371][807]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2024.02.21-17.16.26
+[2024.02.21-22.16.26:372][807]LogWorld: Bringing up level for play took: 0.028117
+[2024.02.21-22.16.26:380][807]PIE: Server logged in
+[2024.02.21-22.16.26:381][807]PIE: Play in editor total start time 0.249 seconds.
+[2024.02.21-22.16.26:395][807]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.26:397][807]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.49:888][151]LogNet: Browse: /Game/Maps/Level1
+[2024.02.21-22.16.49:891][151]LogLoad: LoadMap: /Game/Maps/Level1
+[2024.02.21-22.16.49:910][151]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2024.02.21-22.16.49:912][151]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-22.16.49:915][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.21-22.16.49:961][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.21-22.16.49:974][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.02.21-22.16.49:980][151]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2024.02.21-22.16.50:046][151]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.50:057][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076935s)
+[2024.02.21-22.16.50:057][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.077023s)
+[2024.02.21-22.16.50:057][151]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2024.02.21-22.16.50:057][151]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.21-22.16.50:057][151]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.21-22.16.50:057][151]LogAIModule: Creating AISystem for world Level1
+[2024.02.21-22.16.50:059][151]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2024.02.21-22.16.50:059][151]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.02.21-22.16.50:069][151]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.50:069][151]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.50:069][151]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.50:079][151]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.50:079][151]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.50:079][151]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.50:079][151]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.50:079][151]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.50:082][151]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2024.02.21-17.16.50
+[2024.02.21-22.16.50:084][151]LogWorld: Bringing up level for play took: 0.024695
+[2024.02.21-22.16.50:091][151]LogLoad: Took 0.200173 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level1)
+[2024.02.21-22.16.50:162][151]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.16.50:172][151]LogViewport: Scene viewport resized to 1351x940, mode Windowed.
+[2024.02.21-22.16.50:359][152]LogStaticMesh: Warning: Invalid material [ClockFaceGlass] used on Nanite static mesh [ClockGlass]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.02.21-22.18.23:651][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-22.18.23:651][831]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2024.02.21-22.18.23:653][831]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-22.18.23:656][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.21-22.18.23:699][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-22.18.23:705][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.21-22.18.23:715][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-22.18.23:716][831]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.21-22.18.23:716][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.21-22.18.23:717][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.21-22.18.23:732][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.02.21-22.18.23:858][832]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.02.21-22.19.51:911][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.21-22.19.52:167][191]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level1_Auto4
+[2024.02.21-22.19.52:167][191]LogSavePackage: Moving '../../../../../../Users/reidp/OneDrive/Documents/GitHub/Unreal Engine/gdwGameYear3/gdwGameYear3 5.3 - 2 5.3 5.3/Saved/Level1_Auto44168447043BB717A66682B90B2D8C246.tmp' to '../../../../../../Users/reidp/OneDrive/Documents/GitHub/Unreal Engine/gdwGameYear3/gdwGameYear3 5.3 - 2 5.3 5.3/Saved/Autosaves/Game/Maps/Level1_Auto4.umap'
+[2024.02.21-22.19.52:177][191]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/reidp/OneDrive/Documents/GitHub/Unreal Engine/gdwGameYear3/gdwGameYear3 5.3 - 2 5.3 5.3/Saved/Autosaves/Game/Maps/Level1_Auto4.umap is in the /Temp path, will not scan.
+[2024.02.21-22.19.52:177][191]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/Level1_Auto4 is in the /Temp path, will not scan.
+[2024.02.21-22.19.52:177][191]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/Level1_Auto4 is in the /Temp path, will not scan.
+[2024.02.21-22.19.52:177][191]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.273
+[2024.02.21-22.19.52:177][191]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.273
+[2024.02.21-22.19.52:179][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D_Assets/nail/Nail] ([1] browsable assets)...
+[2024.02.21-22.19.52:368][191]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3D_Assets/nail/Nail.Nail]
+[2024.02.21-22.19.52:368][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D_Assets/nail/Nail]
+[2024.02.21-22.19.52:380][191]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D_Assets/nail/Nail_Auto4
+[2024.02.21-22.19.52:380][191]LogSavePackage: Moving '../../../../../../Users/reidp/OneDrive/Documents/GitHub/Unreal Engine/gdwGameYear3/gdwGameYear3 5.3 - 2 5.3 5.3/Saved/Nail_Auto4DB871B634B9AD96D0F0F86A6BB1B798E.tmp' to '../../../../../../Users/reidp/OneDrive/Documents/GitHub/Unreal Engine/gdwGameYear3/gdwGameYear3 5.3 - 2 5.3 5.3/Saved/Autosaves/Game/3D_Assets/nail/Nail_Auto4.uasset'
+[2024.02.21-22.19.52:382][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D_Assets/nail/Material_001] ([1] browsable assets)...
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: ================================================
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Total job queries 1,747, among them cache hits 1,004 (57.47%)
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Tracking 712 distinct input hashes that result in 416 distinct outputs (58.43%)
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: RAM used: 16.34 MiB of 819.20 MiB budget. Usage: 1.99%
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Shaders Compiled: 538
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Jobs assigned 538, completed 538 (100%)
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Average time worker was idle: 1217.60 s
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Time job spent in pending queue: average 0.22 s, longest 1.48 s
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 2.08 s
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Job life time (pending + execution): average 0.86 s, max 3.05
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Shader code size: average 37.504 KiB, min 4.008 KiB, max 71.648 KiB
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 79.36 s
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Jobs were issued in 538 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Average processing rate: 6.78 jobs/sec
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Total thread time: 254.052 s
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Total thread preprocess time: 28.543 s
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Percentage time preprocessing: 11.24%
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Effective parallelization: 3.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    6 times, average 0.84 sec, max 0.87 sec, min 0.80 sec)
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    8 times, average 0.72 sec, max 1.80 sec, min 0.48 sec)
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    8 times, average 0.70 sec, max 1.77 sec, min 0.50 sec)
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    8 times, average 0.69 sec, max 1.75 sec, min 0.45 sec)
+[2024.02.21-22.19.54:021][191]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    8 times, average 0.68 sec, max 1.76 sec, min 0.46 sec)
+[2024.02.21-22.19.54:022][191]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.21-22.19.54:023][191]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.69% of total time (compiled   79 times, average 0.57 sec, max 1.23 sec, min 0.28 sec)
+[2024.02.21-22.19.54:023][191]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.64% of total time (compiled   74 times, average 0.50 sec, max 1.05 sec, min 0.34 sec)
+[2024.02.21-22.19.54:023][191]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.12% of total time (compiled   53 times, average 0.49 sec, max 1.04 sec, min 0.35 sec)
+[2024.02.21-22.19.54:023][191]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.75% of total time (compiled   53 times, average 0.23 sec, max 0.78 sec, min 0.15 sec)
+[2024.02.21-22.19.54:023][191]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 4.35% of total time (compiled   18 times, average 0.61 sec, max 0.86 sec, min 0.42 sec)
+[2024.02.21-22.19.54:023][191]LogShaderCompilers: Display: ================================================
+[2024.02.21-22.19.54:023][191]LogMaterial: Warning: Material_001: Requesting an invalid TextureIndex! (0 / 1)
+[2024.02.21-22.19.54:069][191]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3D_Assets/nail/Material_001.Material_001]
+[2024.02.21-22.19.54:069][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D_Assets/nail/Material_001]
+[2024.02.21-22.19.54:075][191]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D_Assets/nail/Material_001_Auto4
+[2024.02.21-22.19.54:076][191]LogSavePackage: Moving '../../../../../../Users/reidp/OneDrive/Documents/GitHub/Unreal Engine/gdwGameYear3/gdwGameYear3 5.3 - 2 5.3 5.3/Saved/Material_001_Auto4ECA74F6742B8783D6F18AEB1DC5B9D73.tmp' to '../../../../../../Users/reidp/OneDrive/Documents/GitHub/Unreal Engine/gdwGameYear3/gdwGameYear3 5.3 - 2 5.3 5.3/Saved/Autosaves/Game/3D_Assets/nail/Material_001_Auto4.uasset'
+[2024.02.21-22.19.54:076][191]LogFileHelpers: Auto-saving content packages took 1.899
+[2024.02.21-22.21.13:300][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.02.21-22.21.13:309][244]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.21-22.21.13:408][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.02.21-22.21.13:655][244]LogSavePackage: Moving output files for package: /Game/Maps/Level1
+[2024.02.21-22.21.13:656][244]LogSavePackage: Moving '../../../../../../Users/reidp/OneDrive/Documents/GitHub/Unreal Engine/gdwGameYear3/gdwGameYear3 5.3 - 2 5.3 5.3/Saved/Level113E90B2748A22BF717C692A56E3F20FF.tmp' to '../../../../../../Users/reidp/OneDrive/Documents/GitHub/Unreal Engine/gdwGameYear3/gdwGameYear3 5.3 - 2 5.3 5.3/Content/Maps/Level1.umap'
+[2024.02.21-22.21.13:668][244]LogFileHelpers: Saving map 'Level1' took 0.293
+[2024.02.21-22.21.13:673][244]LogSavePackage: Moving output files for package: /Game/3D_Assets/nail/Nail
+[2024.02.21-22.21.13:673][244]LogSavePackage: Moving '../../../../../../Users/reidp/OneDrive/Documents/GitHub/Unreal Engine/gdwGameYear3/gdwGameYear3 5.3 - 2 5.3 5.3/Saved/Nail5B5F3EEF433369D9247041BED8EAE934.tmp' to '../../../../../../Users/reidp/OneDrive/Documents/GitHub/Unreal Engine/gdwGameYear3/gdwGameYear3 5.3 - 2 5.3 5.3/Content/3D_Assets/nail/Nail.uasset'
+[2024.02.21-22.21.13:679][244]LogSavePackage: Moving output files for package: /Game/3D_Assets/nail/Material_001
+[2024.02.21-22.21.13:679][244]LogSavePackage: Moving '../../../../../../Users/reidp/OneDrive/Documents/GitHub/Unreal Engine/gdwGameYear3/gdwGameYear3 5.3 - 2 5.3 5.3/Saved/Material_0010DBBFF884E07F201280A449D2F3FA9C2.tmp' to '../../../../../../Users/reidp/OneDrive/Documents/GitHub/Unreal Engine/gdwGameYear3/gdwGameYear3 5.3 - 2 5.3 5.3/Content/3D_Assets/nail/Material_001.uasset'
+[2024.02.21-22.21.13:713][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 404 ms (total: 1.73 sec)
+[2024.02.21-22.21.13:719][244]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.21-22.21.13:719][244]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Level1.Level1
+[2024.02.21-22.21.13:719][244]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/3D_Assets/nail/Nail.Nail
+[2024.02.21-22.21.13:719][244]LogContentValidation: Display: Validating /Script/Engine.Material /Game/3D_Assets/nail/Material_001.Material_001
